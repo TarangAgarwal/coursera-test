@@ -1,0 +1,29 @@
+* {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.toggle-bar-background, .para-background {
+    background-color: #999999;
+}
+
+.para-background {
+    height: 5000px;
+    overflow: auto;
+}
+
+nav {
+    padding: 0 !IMPORTANT ;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #000;
+}
+
+.nav-item {
+    border: 1px solid black;
+}
+
+.back-to-top {
+    text-align: center;
+    padding: 3px;
+}
